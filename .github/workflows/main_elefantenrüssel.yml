@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ElefantenRüssel'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_616B96C3AA79498FA3F2DC30122C5FC6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BF2C0465E7A6409D9A70EE8F304246D0 }}
           package: .
